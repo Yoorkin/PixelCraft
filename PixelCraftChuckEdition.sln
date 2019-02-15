@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PixelCraftChuckEdition.Plugins", "PixelCraftChuckEdition.Plugins.csproj", "{66DFADC4-BB76-391A-5371-6552C1FE6C1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PixelCraftChuckEdition", "PixelCraftChuckEdition.csproj", "{E4937E89-B4AD-640A-A4E2-BF1A16E74D0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PixelCraftChuckEdition.Editor", "PixelCraftChuckEdition.Editor.csproj", "{C1231901-5B6A-E242-CF08-740D616FADF8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66DFADC4-BB76-391A-5371-6552C1FE6C1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66DFADC4-BB76-391A-5371-6552C1FE6C1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66DFADC4-BB76-391A-5371-6552C1FE6C1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66DFADC4-BB76-391A-5371-6552C1FE6C1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4937E89-B4AD-640A-A4E2-BF1A16E74D0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4937E89-B4AD-640A-A4E2-BF1A16E74D0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4937E89-B4AD-640A-A4E2-BF1A16E74D0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4937E89-B4AD-640A-A4E2-BF1A16E74D0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1231901-5B6A-E242-CF08-740D616FADF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1231901-5B6A-E242-CF08-740D616FADF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1231901-5B6A-E242-CF08-740D616FADF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1231901-5B6A-E242-CF08-740D616FADF8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
